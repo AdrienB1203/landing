@@ -1,0 +1,11 @@
+.black-btn {
+	background-color: rgb(180, 180, 180) ;
+	color: rgb(30, 30, 30);
+	padding: 10px 15px;
+	border-radius: 4px;
+	margin: 20px auto;
+}
+.black-btn:hover {
+	color: whitesmoke;
+
+}
